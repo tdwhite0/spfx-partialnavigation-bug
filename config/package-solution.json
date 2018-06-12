@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "test-onepointfive-client-side-solution",
+    "id": "5fd6bd4c-ba45-4af4-81e4-c3fa208d6519",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/test-onepointfive.sppkg"
+  }
+}
